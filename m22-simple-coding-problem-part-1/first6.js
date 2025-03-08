@@ -23,5 +23,7 @@
 // console.log(Math.random()*10); // (0-10)-number showing--
 // console.log(Math.round(Math.random()*10));
 // console.log(Math.pow(2,3));// 2*2*2=8---
+// console.log(Math.ceil(2.99999)//result 3;
+// console.log(Math.ceil(2.000005)//result 3;
 
 
